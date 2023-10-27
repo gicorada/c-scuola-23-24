@@ -55,3 +55,4 @@ output/NumeroElemPosArrayConFunz
 
 # Cartella di intellij
 .idea/
+/output/
